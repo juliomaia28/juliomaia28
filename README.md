@@ -10,9 +10,9 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliomaia28&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliomaia28&bg_color=000000&color=A020F0&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 😸 Fatos sobre mim:
+##  Fatos sobre mim:
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
 - 🎲 Estudos atualmente voltados para Data Enginner e Python
 - 👯 Procuro colaborar em projetos e pesquisas de Inteligência Artificial
@@ -20,7 +20,7 @@
 - 📫 Fale comigo em: **juliomaia2004@gmail.com
 **
 - ⚡ Curiosidade sobre mim: **Gosto de jogos fps e jogo basquete como hobbie🎵**
-- 🧠 **Habilidades:** Sou um autodidata exímio, fluente em inglês e tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos
+- 🧠 **Habilidades:** tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos.
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
 ### 💻 Ferramentas de Desenvolvimento:
@@ -63,8 +63,7 @@
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Cloudera](https://img.shields.io/badge/Cloudera-F96702.svg?style=for-the-badge&logo=Cloudera&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-![]()
+
 ![]()
 
 <br>
@@ -85,9 +84,9 @@
 
 
 
-<h2 align="center"> Há 3 coisas que juntas são imbatíveis: a constância, a paciência e a disciplina. </h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <!--
 Creditos - rafaelhenrique-br
