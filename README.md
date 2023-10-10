@@ -19,7 +19,7 @@
 - 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Inovação
 - 📫 Fale comigo em: **juliomaia2004@gmail.com
 **
-- ⚡ Curiosidade sobre mim: **Gosto de jogos fps e jogo basquete como hobbie🎵**
+- ⚡ Curiosidade sobre mim: **Gosto de jogos fps e jogo basquete como hobbie**
 - 🧠 **Habilidades:** tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos.
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
