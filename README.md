@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Julio,+muito+prazer👋;Tenho+18+anos;Quero+me+tornar+um+Cientista+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Julio,+muito+prazer👋;Tenho+18+anos;Quero+me+tornar+um+Engenheiro+de+Dados!🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
@@ -16,11 +16,10 @@
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
 - 🎲 Estudos atualmente voltados para Data Enginner e Python
 - 👯 Procuro colaborar em projetos e pesquisas de Inteligência Artificial
-- 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Inovação
-- 📫 Fale comigo em: **juliomaia2004@gmail.com
-**
+- 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Jogos
+- 📫 Fale comigo em: **juliomaia2004@gmail.com**
 - ⚡ Curiosidade sobre mim: **Gosto de jogos fps e jogo basquete como hobbie**
-- 🧠 **Habilidades:** tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos.
+  
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
 ### 💻 Ferramentas de Desenvolvimento:
